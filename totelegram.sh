@@ -2,7 +2,7 @@
 
 # Script Information
 # Name: totelegram.sh
-# Version: 1.0
+# Version: 0.1
 # Author: drhdev
 # Description: This script sends files or file contents to a specified Telegram chat using a bot. It supports sending files as attachments or text content of files as messages. It includes logging capabilities and can be run as a cron job.
 # License: GNU Public License
